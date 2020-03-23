@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "version": "",
+  "name": "image-carousel-proxy",
+  "version": "1.0.0",
   "description": "",
   "author": "",
   "license": "",
@@ -8,10 +8,14 @@
     "node": ">=6.13.0"
   },
   "scripts": {
+    "start": "nodemon server/index.js"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
