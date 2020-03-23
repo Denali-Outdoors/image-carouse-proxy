@@ -17,7 +17,13 @@
 
 ## Usage
 
-> Some usage instructions
+- NPM install
+- NPM run react-watch
+- NPM run seedDB (use "mysql -u [username] < ./database.schema.sql") Automatic database drop everytime you load the schema
+- NPM start
+
+use http://localhost:3000/index.html
+
 
 ## Requirements
 
