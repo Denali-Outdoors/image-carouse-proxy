@@ -1,0 +1,16 @@
+#reservations {
+  top: 29vh;
+  right: 14vw;
+  position: fixed;
+}
+
+#reviews {
+  top: 35vh;
+  left: 14vw;
+  position: fixed;
+}
+
+/* #carousel {
+  top: 5vh;
+  position: fixed;
+} */
