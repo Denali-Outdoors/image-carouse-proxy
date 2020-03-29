@@ -14,3 +14,12 @@
   top: 5vh;
   position: fixed;
 } */
+
+/* #reservations {
+  float: right;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  margin-top: 240px;
+  z-index: 1;
+} */
